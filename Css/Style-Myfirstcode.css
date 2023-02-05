@@ -1,0 +1,29 @@
+body{
+    background-color: darkslategrey;
+}
+h1{
+font-size: 30px;
+color: green;
+}
+
+h2 {
+    color: green;
+}
+h2{
+font-size: 20px;
+color: burlywood;
+}
+
+.BigFont{
+font-size: 40px;
+}
+.Uppercase{
+text-transform: uppercase;
+}
+
+.BigFont.Uppercase{
+color:olivedrab;
+}
+h1 span{
+color: turquoise;
+}
