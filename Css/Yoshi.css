@@ -1,0 +1,15 @@
+body{
+    margin:0;
+}
+
+header{
+    background-image: url(https://helios-i.mashable.com/imagery/articles/003u0ANupZ1yJ0sZkrRvNWI/images-2.fill.size_2000x1304.v1611691945.gif);
+    text-align:center;
+}
+
+header h1 {
+    color:goldenrod;
+}
+img {
+    border-radius: 150px;
+  }
