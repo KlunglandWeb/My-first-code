@@ -1,6 +1,7 @@
 body{
 margin:0;
 font-family: Helvetica, Arial, sans-serif;
+line-height: 30px;
 }
 
 header{
@@ -30,6 +31,7 @@ h2 {
     color:rgb(56, 159, 55);
     opacity: 0.75;
     font-size: 35px;
+    margin: 40px 0 20px;
 }
 
 main {
@@ -42,6 +44,38 @@ main img {
     max-width: 100%;
 }
 
+p.caption{
+   Color:rgba(105, 105, 105, 0.658); 
+   font-size: 13px;
+   font-style: italic;
+   margin-top: 0;
+}
+
+a{
+    color:rgb(56, 159, 55);
+}
+
+a:hover{
+    color: greenyellow;
+}
+
+footer{
+    text-align: center;
+    background-color:rgb(59, 180, 65);
+    padding: 35px;
+}
+
+footer a{
+    color:whitesmoke;
+}
+
+footer p{
+    margin: 0;
+}
+
+footer a:hover{
+    color:rgb(23, 146, 115);
+}
 /* Classes */
 .imgheader{
 border-radius: 150px;
